@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi there, I'm Sam 👋
 
-<!--
-**SamPetherbridge/SamPetherbridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+From a very young age, I have desired to understand how technology worked. I am a strong believer in the ability of technology to be an enabler. I believe those of us that understand technology have a responsibility to enable others, removing jargon and simplifying how technology works and how it can aid business. My deep passion for technology has lead me to publish an app to Apple’s App Store and learn several programming languages, including Python, JavaScript, Swift and others in my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I look at product development and technology aiding the team in delivering on client needs, using tools including Tableau, Datorama, Google Data Studio, SQL Server, Big Query and Jira. Previously, I was leading implementation and optimisation of performance media across Search, Social & Programmatic. I have extensive experience in the technicalities involved in digital media and experience working with all elements of Google Marketing Platform, Facebook, LinkedIn, Snapchat, and programmatic buying platforms including Amobee, The Trade Desk and MediaMath.
+
+I am a strong believer that we should always keep learning, whether this is in formal or informal settings. I am currently undertaking an MBA through RMIT University, which has at times been an eye-opening experience that has reframed the importance of all elements of life.
+
+### Find me online:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Django" width="26px" src="https://github.com/github/explore/raw/master/topics/django/django.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML" width="26px" src="https://github.com/github/explore/raw/master/topics/html/html.png" />
+<img align="left" alt="iOS" width="26px" src="https://github.com/github/explore/raw/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Jekyll" width="26px" src="https://github.com/github/explore/raw/master/topics/jekyll/jekyll.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Swift" width="26px" src="https://github.com/github/explore/raw/master/topics/swift/swift.png" />
+
+---
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[website]: https://peth.me
+[twitter]: https://www.twitter.com/MrSamPeth
+[linkedin]: https://www.linkedin.com/in/SamPetherbridge
+[instagram]: https://instagram.com/MrSamPeth
