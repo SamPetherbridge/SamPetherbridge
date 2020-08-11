@@ -17,6 +17,7 @@ I am a strong believer that we should always keep learning, whether this is in f
 
 <br />
 
+
 ### Languages and Tools:
 
 <img align="left" alt="Django" width="26px" src="https://github.com/github/explore/raw/master/topics/django/django.png" />
@@ -30,6 +31,8 @@ I am a strong believer that we should always keep learning, whether this is in f
 <img align="left" alt="Python" width="26px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Swift" width="26px" src="https://github.com/github/explore/raw/master/topics/swift/swift.png" />
+
+<br />
 
 ---
 
