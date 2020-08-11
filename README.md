@@ -39,6 +39,11 @@ I am a strong believer that we should always keep learning, whether this is in f
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Starting To Hit The Right Spot On User Privacy](https://peth.me/2020/apple-user-privacy/)
+- [The Need For More Transparency When It Comes To The Data Apps Collect](https://peth.me/2020/data-apps-collect/)
+- [Metadata](https://peth.me/2014/11/06/metadata/)
+- [Aaron Swartz](https://peth.me/2014/11/03/arron-swartz/)
+- [Print Friendly](https://peth.me/2014/03/08/print-friendly/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://peth.me
