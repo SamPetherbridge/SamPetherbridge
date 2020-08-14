@@ -12,6 +12,17 @@ I am a strong believer that we should always keep learning, whether this is in f
 
 - [Strokes Per MinuteiOS App][websiteSPM]
 - [HTTPStatus.xyz][websitehttpstatus]
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Apple Starting To Hit The Right Spot On User Privacy](https://peth.me/2020/apple-user-privacy/)
+- [The Need For More Transparency When It Comes To The Data Apps Collect](https://peth.me/2020/data-apps-collect/)
+- [Metadata](https://peth.me/2014/11/06/metadata/)
+- [Aaron Swartz](https://peth.me/2014/11/03/arron-swartz/)
+- [Print Friendly](https://peth.me/2014/03/08/print-friendly/)
+<!-- BLOG-POST-LIST:END -->
+
 ### Find me online:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -35,20 +46,6 @@ I am a strong believer that we should always keep learning, whether this is in f
 <img align="left" alt="Python" width="26px" src="https://github.com/github/explore/raw/master/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Swift" width="26px" src="https://github.com/github/explore/raw/master/topics/swift/swift.png" />
-
-<br />
-
----
-
-### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Apple Starting To Hit The Right Spot On User Privacy](https://peth.me/2020/apple-user-privacy/)
-- [The Need For More Transparency When It Comes To The Data Apps Collect](https://peth.me/2020/data-apps-collect/)
-- [Metadata](https://peth.me/2014/11/06/metadata/)
-- [Aaron Swartz](https://peth.me/2014/11/03/arron-swartz/)
-- [Print Friendly](https://peth.me/2014/03/08/print-friendly/)
-<!-- BLOG-POST-LIST:END -->
 
 [website]: https://peth.me
 [twitter]: https://www.twitter.com/MrSamPeth
