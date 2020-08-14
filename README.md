@@ -8,6 +8,10 @@ Currently, I look at product development and technology aiding the team in deliv
 
 I am a strong believer that we should always keep learning, whether this is in formal or informal settings. I am currently undertaking an MBA through RMIT University, which has at times been an eye-opening experience that has reframed the importance of all elements of life.
 
+### Projects
+
+- [Strokes Per MinuteiOS App][websiteSPM]
+- [HTTPStatus.xyz][websitehttpstatus]
 ### Find me online:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -50,3 +54,5 @@ I am a strong believer that we should always keep learning, whether this is in f
 [twitter]: https://www.twitter.com/MrSamPeth
 [linkedin]: https://www.linkedin.com/in/SamPetherbridge
 [instagram]: https://instagram.com/MrSamPeth
+[websiteSPM]: https://peth.me/projects/strokes-per-minute/
+[websitehttpstatus]: https://httpstatus.xyz
