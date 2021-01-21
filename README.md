@@ -6,7 +6,7 @@ From a very young age, I have desired to understand how technology worked. I am 
 
 Currently, I look at product development and technology aiding the team in delivering on client needs, using tools including Tableau, Datorama, Google Data Studio, SQL Server, Big Query and Jira. Previously, I was leading implementation and optimisation of performance media across Search, Social & Programmatic. I have extensive experience in the technicalities involved in digital media and experience working with all elements of Google Marketing Platform, Facebook, LinkedIn, Snapchat, and programmatic buying platforms including Amobee, The Trade Desk and MediaMath.
 
-I am a strong believer that we should always keep learning, whether this is in formal or informal settings. I am currently undertaking an MBA through RMIT University, which has at times been an eye-opening experience that has reframed the importance of all elements of life.
+I believe that we should always keep learning, whether this is in formal or informal settings. I have recently compleated an MBA through RMIT University, which has at times been an eye-opening experience that has reframed the importance of all elements of life.
 
 ### Projects
 
