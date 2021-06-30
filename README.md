@@ -11,7 +11,7 @@ I believe that we should always keep learning, whether this is in formal or info
 ### Projects
 
 - [Strokes Per MinuteiOS App][websiteSPM]
-- [HTTPStatus.xyz][websitehttpstatus]
+- [Status Codes by Sam Petherbridge][websitehttpstatus]
 
 ### Latest Blog Posts
 
@@ -51,4 +51,4 @@ I believe that we should always keep learning, whether this is in formal or info
 [linkedin]: https://www.linkedin.com/in/SamPetherbridge
 [instagram]: https://instagram.com/MrSamPeth
 [websiteSPM]: https://peth.me/projects/strokes-per-minute/
-[websitehttpstatus]: https://httpstatus.xyz
+[websitehttpstatus]: https://statuscodes.peth.me/
