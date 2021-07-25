@@ -16,11 +16,11 @@ I believe that we should always keep learning, whether this is in formal or info
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Simon Sinek - How to discover your "why" in dificult times](https://peth.me/linked/2021/05/simon-sinek/)
-- [James Allworth - Australia’s Proposed “Fox News Tax”](https://peth.me/linked/2021/01/james-allworth/)
-- [Freakonomics - Does Advertising Actually Work?](https://peth.me/linked/2021/01/freakanomics/)
+- [Defining ourselves by our jobs](https://peth.me/blog/2021/07/why-we-define-ourselves-by-our-jobs/)
+- [Simon Sinek - How to discover your "why" in dificult times](https://peth.me/blog/2021/05/simon-sinek/)
+- [James Allworth - Australia’s Proposed “Fox News Tax”](https://peth.me/blog/2021/01/james-allworth/)
+- [Freakonomics - Does Advertising Actually Work?](https://peth.me/blog/2021/01/freakanomics/)
 - [Apple Starting To Hit The Right Spot On User Privacy](https://peth.me/2020/apple-user-privacy/)
-- [The Need For More Transparency When It Comes To The Data Apps Collect](https://peth.me/2020/data-apps-collect/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me online:
