@@ -10,7 +10,8 @@ I believe that we should always keep learning, whether this is in formal or info
 
 ### Projects
 
-- [Strokes Per MinuteiOS App][websiteSPM]
+- [Chippy Tools iOS App][chippyTools]
+- [Strokes Per Minute iOS App][websiteSPM]
 - [Status Codes by Sam Petherbridge][websitehttpstatus]
 
 ### Latest Blog Posts
@@ -52,3 +53,4 @@ I believe that we should always keep learning, whether this is in formal or info
 [instagram]: https://instagram.com/MrSamPeth
 [websiteSPM]: https://peth.me/projects/strokes-per-minute/
 [websitehttpstatus]: https://statuscodes.peth.me/
+[chippyTools]: https://chippy.tools/
