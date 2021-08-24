@@ -17,11 +17,11 @@ I believe that we should always keep learning, whether this is in formal or info
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chippy Tools](https://peth.me/blog/2021/08/chippy-tools/)
 - [Marketing Tech Needs Alignment To Business Objectives](https://peth.me/blog/2021/07/martech-business-alignment/)
 - [Defining ourselves by our jobs](https://peth.me/blog/2021/07/why-we-define-ourselves-by-our-jobs/)
 - [Simon Sinek - How to discover your "why" in dificult times](https://peth.me/blog/2021/05/simon-sinek/)
 - [James Allworth - Australia’s Proposed “Fox News Tax”](https://peth.me/blog/2021/01/james-allworth/)
-- [Freakonomics - Does Advertising Actually Work?](https://peth.me/blog/2021/01/freakanomics/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me online:
