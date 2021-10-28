@@ -1,12 +1,12 @@
 ### Hi there, I'm Sam 👋
 
-### About
+I am a Developer, a Marketer, & a lover of the outdoors based in Brisbane Australia.
 
-From a very young age, I have desired to understand how technology worked. I am a strong believer in the ability of technology to be an enabler. I believe those of us that understand technology have a responsibility to enable others, removing jargon and simplifying how technology works and how it can aid business. My deep passion for technology has lead me to publish an app to Apple’s App Store and learn several programming languages, including Python, JavaScript, Swift and others in my spare time.
+I am a strong believer in the ability of technology to be an enabler. I believe those of us that understand technology have a responsibility to enable others, removing jargon and simplifying how technology works and how it can aid business. My deep passion for technology has led me to publish applications to Apple’s App Store, develop numerous applications to increase productivity within media agencies and deliver bespoke solutions for digital advertising.
 
-Currently, I look at product development and technology aiding the team in delivering on client needs, using tools including Tableau, Datorama, Google Data Studio, SQL Server, Big Query and Jira. Previously, I was leading implementation and optimisation of performance media across Search, Social & Programmatic. I have extensive experience in the technicalities involved in digital media and experience working with all elements of Google Marketing Platform, Facebook, LinkedIn, Snapchat, and programmatic buying platforms including Amobee, The Trade Desk and MediaMath.
+I am an experienced digital marketer with experience working with some of Australia's largest and technologically complex businesses. With my deep technical understanding, I seek to ensure marketing technology is working effectively, looking for opportunities to increase productivity through the use of technology.
 
-I believe that we should always keep learning, whether this is in formal or informal settings. I have recently completed an MBA through RMIT University, which has at times been an eye-opening experience that has reframed the importance of all elements of life.
+I believe that we should always keep learning, whether this is in formal or informal settings. In 2021 I graduated with a Master of Business Administration from RMIT University.
 
 ### Projects
 
