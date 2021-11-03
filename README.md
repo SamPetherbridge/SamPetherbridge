@@ -12,6 +12,7 @@ I believe that we should always keep learning, whether this is in formal or info
 
 - [Chippy Tools iOS App][chippyTools]
 - [Strokes Per Minute iOS App][websiteSPM]
+- [GST & VAT Calculator][gstVatWebsite]
 - [Status Codes by Sam Petherbridge][websitehttpstatus]
 
 ### Latest Blog Posts
@@ -54,3 +55,4 @@ I believe that we should always keep learning, whether this is in formal or info
 [websiteSPM]: https://peth.me/projects/strokes-per-minute/
 [websitehttpstatus]: https://statuscodes.peth.me/
 [chippyTools]: https://chippy.tools/
+[gstVatWebsite]: https://peth.me/projects/gst-vat-calculator/
