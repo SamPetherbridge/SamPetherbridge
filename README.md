@@ -18,11 +18,11 @@ I believe that we should always keep learning, whether this is in formal or info
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From 0 to App Store Charts in 2 Months](https://peth.me/blog/2021/11/2-months-to-appstore-charts/)
 - [GST &amp; VAT Calculator](https://peth.me/blog/2021/11/gst-vat-calculator/)
 - [Chippy Tools](https://peth.me/blog/2021/08/chippy-tools/)
 - [Marketing Tech Needs Alignment To Business Objectives](https://peth.me/blog/2021/07/martech-business-alignment/)
 - [Defining ourselves by our jobs](https://peth.me/blog/2021/07/why-we-define-ourselves-by-our-jobs/)
-- [Simon Sinek - How to discover your &quot;why&quot; in dificult times](https://peth.me/blog/2021/05/simon-sinek/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me online:
