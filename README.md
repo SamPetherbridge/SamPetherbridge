@@ -10,9 +10,10 @@ I believe that we should always keep learning, whether this is in formal or info
 
 ### Projects
 
-- [Chippy Tools iOS App][chippyTools]
-- [Strokes Per Minute iOS App][websiteSPM]
-- [GST & VAT Calculator][gstVatWebsite]
+- Chippy Tools iOS App • [Website][chippyTools] • [App Store][chippyToolsAppStore]
+- Strokes Per Minute iOS App • [Website][websiteSPM] • [App Store][strokesPerMinuteAppStore]
+- GST & VAT Calculator iOS App • [Website][gstVatWebsite] • [App Store][gstVatAppStore]
+- Media Calculator iOS App • [Website][mediaCalculatorWebsite] • [App Store][mediaCalculatorAppStore]
 - [Status Codes by Sam Petherbridge][websitehttpstatus]
 
 ### Latest Blog Posts
@@ -53,6 +54,11 @@ I believe that we should always keep learning, whether this is in formal or info
 [linkedin]: https://www.linkedin.com/in/SamPetherbridge
 [instagram]: https://instagram.com/MrSamPeth
 [websiteSPM]: https://peth.me/projects/strokes-per-minute/
+[strokesPerMinuteAppStore]: https://apps.apple.com/app/apple-store/id662891507?pt=1325369&ct=github&mt=8
 [websitehttpstatus]: https://statuscodes.peth.me/
 [chippyTools]: https://chippy.tools/
+[chippyToolsAppStore]: https://apps.apple.com/app/apple-store/id1579138717?pt=1325369&ct=github&mt=8
 [gstVatWebsite]: https://peth.me/projects/gst-vat-calculator/
+[gstVatAppStore]: https://apps.apple.com/app/apple-store/id1592788063?pt=1325369&ct=github&mt=8
+[mediaCalculatorWebsite]: https://peth.me/projects/media-calculator/
+[mediaCalculatorAppStore]: https://apps.apple.com/app/apple-store/id1593785150?pt=1325369&ct=github&mt=8
