@@ -60,5 +60,5 @@ I believe that we should always keep learning, whether this is in formal or info
 [chippyToolsAppStore]: https://apps.apple.com/app/apple-store/id1579138717?pt=1325369&ct=github&mt=8
 [gstVatWebsite]: https://peth.me/projects/gst-vat-calculator/
 [gstVatAppStore]: https://apps.apple.com/app/apple-store/id1592788063?pt=1325369&ct=github&mt=8
-[mediaCalculatorWebsite]: https://peth.me/projects/media-calculator/
+[mediaCalculatorWebsite]: https://mediacalculator.app/
 [mediaCalculatorAppStore]: https://apps.apple.com/app/apple-store/id1593785150?pt=1325369&ct=github&mt=8
