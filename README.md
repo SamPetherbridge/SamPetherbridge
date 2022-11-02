@@ -14,6 +14,7 @@ I believe that we should always keep learning, whether this is in formal or info
 - Strokes Per Minute iOS App • [Website][websiteSPM] • [App Store][strokesPerMinuteAppStore]
 - GST & VAT Calculator iOS App • [Website][gstVatWebsite] • [App Store][gstVatAppStore]
 - Media Calculator iOS App • [Website][mediaCalculatorWebsite] • [App Store][mediaCalculatorAppStore]
+- Business Calculator iOS App • [Website][businessCalculatorWebsite] • [App Store][businessCalculatorAppStore]
 - [Status Codes by Sam Petherbridge][websitehttpstatus]
 
 ### Latest Blog Posts
@@ -62,3 +63,5 @@ I believe that we should always keep learning, whether this is in formal or info
 [gstVatAppStore]: https://apps.apple.com/app/apple-store/id1592788063?pt=1325369&ct=github&mt=8
 [mediaCalculatorWebsite]: https://mediacalculator.app/
 [mediaCalculatorAppStore]: https://apps.apple.com/app/apple-store/id1593785150?pt=1325369&ct=github&mt=8
+[businessCalculatorWebsite]: https://businesscalculator.app
+[businessCalculatorAppStore]: https://apps.apple.com/us/app/business-calculator/id1626410197&ct=github&mt=8
