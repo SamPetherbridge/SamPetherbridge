@@ -10,7 +10,8 @@ I believe that we should always keep learning, whether this is in formal or info
 
 ### Projects
 
-- Chippy Tools iOS App • [Website][chippyTools] • [App Store][chippyToolsAppStore]
+- Statement Intel - An AI-driven solution converts cumbersome bank statements into clear, actionable insights—perfectly designed for handling the varied formats received by professionals. • [Website][statementIntelWebsite]
+- Chippy Tools App • [Website][chippyTools] • [App Store][chippyToolsAppStore] • [Play Store][chippyToolsPlayStore]
 - Strokes Per Minute iOS App • [Website][websiteSPM] • [App Store][strokesPerMinuteAppStore]
 - GST & VAT Calculator iOS App • [Website][gstVatWebsite] • [App Store][gstVatAppStore]
 - Media Calculator iOS App • [Website][mediaCalculatorWebsite] • [App Store][mediaCalculatorAppStore]
@@ -59,9 +60,11 @@ I believe that we should always keep learning, whether this is in formal or info
 [websitehttpstatus]: https://statuscodes.peth.me/
 [chippyTools]: https://chippy.tools/
 [chippyToolsAppStore]: https://apps.apple.com/app/apple-store/id1579138717?pt=1325369&ct=github&mt=8
+[chippyToolsPlayStore]: https://play.google.com/store/apps/details?id=tools.chippy&utm_source=github
 [gstVatWebsite]: https://peth.me/projects/gst-vat-calculator/
 [gstVatAppStore]: https://apps.apple.com/app/apple-store/id1592788063?pt=1325369&ct=github&mt=8
 [mediaCalculatorWebsite]: https://mediacalculator.app/
 [mediaCalculatorAppStore]: https://apps.apple.com/app/apple-store/id1593785150?pt=1325369&ct=github&mt=8
 [businessCalculatorWebsite]: https://businesscalculator.app
 [businessCalculatorAppStore]: https://apps.apple.com/us/app/business-calculator/id1626410197&ct=github&mt=8
+[statementIntelWebsite]: https://www.statementintel.au
