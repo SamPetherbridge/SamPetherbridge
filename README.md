@@ -10,7 +10,7 @@ I believe that we should always keep learning, whether this is in formal or info
 
 ### Projects
 
-- Statement Intel - An AI-driven solution converts cumbersome bank statements into clear, actionable insights—perfectly designed for handling the varied formats received by professionals. • [Website][statementIntelWebsite]
+- Tryvex - An AI-driven solution converts cumbersome bank statements into clear, actionable insights—perfectly designed for handling the varied formats received by professionals. • [Website][tryvexWebsite]
 - Chippy Tools App • [Website][chippyTools] • [App Store][chippyToolsAppStore] • [Play Store][chippyToolsPlayStore]
 - Strokes Per Minute iOS App • [Website][websiteSPM] • [App Store][strokesPerMinuteAppStore]
 - GST & VAT Calculator iOS App • [Website][gstVatWebsite] • [App Store][gstVatAppStore]
@@ -67,4 +67,4 @@ I believe that we should always keep learning, whether this is in formal or info
 [mediaCalculatorAppStore]: https://apps.apple.com/app/apple-store/id1593785150?pt=1325369&ct=github&mt=8
 [businessCalculatorWebsite]: https://businesscalculator.app
 [businessCalculatorAppStore]: https://apps.apple.com/us/app/business-calculator/id1626410197&ct=github&mt=8
-[statementIntelWebsite]: https://www.statementintel.au
+[tryvexWebsite]: https://www.tryvex.au
