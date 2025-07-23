@@ -12,6 +12,7 @@ I believe that we should always keep learning, whether this is in formal or info
 
 - Tryvex - An AI-driven solution converts cumbersome bank statements into clear, actionable insights—perfectly designed for handling the varied formats received by professionals. • [Website][tryvexWebsite]
 - Chippy Tools App • [Website][chippyTools] • [App Store][chippyToolsAppStore] • [Play Store][chippyToolsPlayStore]
+- Concrete Tools App • [Website][concreteTools] • [App Store][concreteToolsAppStore]
 - Strokes Per Minute iOS App • [Website][websiteSPM] • [App Store][strokesPerMinuteAppStore]
 - GST & VAT Calculator iOS App • [Website][gstVatWebsite] • [App Store][gstVatAppStore]
 - Media Calculator iOS App • [Website][mediaCalculatorWebsite] • [App Store][mediaCalculatorAppStore]
@@ -52,7 +53,7 @@ I believe that we should always keep learning, whether this is in formal or info
 <img align="left" alt="Swift" width="26px" src="https://github.com/github/explore/raw/master/topics/swift/swift.png" /> -->
 
 [website]: https://peth.me
-[twitter]: https://www.twitter.com/MrSamPeth
+[twitter]: https://www.x.com/PethAU
 [linkedin]: https://www.linkedin.com/in/SamPetherbridge
 [instagram]: https://instagram.com/MrSamPeth
 [websiteSPM]: https://peth.me/projects/strokes-per-minute/
@@ -68,3 +69,5 @@ I believe that we should always keep learning, whether this is in formal or info
 [businessCalculatorWebsite]: https://businesscalculator.app
 [businessCalculatorAppStore]: https://apps.apple.com/us/app/business-calculator/id1626410197&ct=github&mt=8
 [tryvexWebsite]: https://www.tryvex.au
+[concreteTools]: https://www.concretecalculator.app/en/
+[concreteToolsAppStore]: https://apps.apple.com/app/apple-store/id6741408557?pt=1325369&mt=8
