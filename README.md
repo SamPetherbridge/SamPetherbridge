@@ -4,9 +4,6 @@ An entrepreneur, consultant and developer in Brisbane. I work where technology, 
 
 After 10 years of failure to launch (including three complete apps), I released Chippy Tools in 2021 and invested heavily in product and paid growth. Today it’s used monthly by tens of thousands in almost every country, across 12+ languages. I’m the Founder of Forest Green Digital — a data and marketing consultancy partnering with high-growth teams and enterprise — and I build Tryvex (AI bank-statement → Excel/CSV for legal & insolvency) and AvailTrack (appointment-availability intelligence that monitors next available appointment, detects diary-blocking and alerts owners). First App Store release: Strokes Per Minute on 12 October 2014. MBA (RMIT, 2021).
 
-<img width="468" height="253" alt="image" src="https://github.com/user-attachments/assets/783176bb-ef26-4663-a384-148652e616d2" />
-
-
 ### Projects
 
 - Tryvex - An AI-driven solution converts cumbersome bank statements into clear, actionable insights—perfectly designed for handling the varied formats received by professionals. • [Website][tryvexWebsite]
