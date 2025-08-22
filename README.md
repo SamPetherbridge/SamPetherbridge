@@ -1,12 +1,11 @@
 ### Hi there, I'm Sam 👋
 
-I am a Developer, a Marketer, & a lover of the outdoors based in Brisbane Australia.
+An entrepreneur, consultant and developer in Brisbane. I work where technology, data, marketing and media meet, helping organisations turn messy systems into dependable growth.
 
-I am a strong believer in the ability of technology to be an enabler. I believe those of us that understand technology have a responsibility to enable others, removing jargon and simplifying how technology works and how it can aid business. My deep passion for technology has led me to publish applications to Apple’s App Store, develop numerous applications to increase productivity within media agencies and deliver bespoke solutions for digital advertising.
+After 10 years of failure to launch (including three complete apps), I released Chippy Tools in 2021 and invested heavily in product and paid growth. Today it’s used monthly by tens of thousands in almost every country, across 12+ languages. I’m the Founder of Forest Green Digital — a data and marketing consultancy partnering with high-growth teams and enterprise — and I build Tryvex (AI bank-statement → Excel/CSV for legal & insolvency) and AvailTrack (appointment-availability intelligence that monitors next available appointment, detects diary-blocking and alerts owners). First App Store release: Strokes Per Minute on 12 October 2014. MBA (RMIT, 2021).
 
-I am an experienced digital marketer with experience working with some of Australia's largest and technologically complex businesses. With my deep technical understanding, I seek to ensure marketing technology is working effectively, looking for opportunities to increase productivity through the use of technology.
+<img width="468" height="253" alt="image" src="https://github.com/user-attachments/assets/783176bb-ef26-4663-a384-148652e616d2" />
 
-I believe that we should always keep learning, whether this is in formal or informal settings. In 2021 I graduated with a Master of Business Administration from RMIT University.
 
 ### Projects
 
